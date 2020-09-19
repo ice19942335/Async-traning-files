@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndB09bDzVtehIknzv8wQ9MYWH8LIDtjUUeCJHEYbJBeq6/hqu1bwGjoeXf47rLaJieON6J0mYJog9T4pW8HEzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleksejs.birula\\Desktop\\Async traning files\\03\\demos\\Windows\\Completed\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleksejs.birula\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aleksejs.birula\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
